@@ -1,0 +1,30 @@
+--------------------------
+Phase 1
+--------------------------
+#take the lead ref number in column b (starting row 2)
+#compare it to numbers in another sheet.
+#if number found, inject:
+	-assigned manager (J) 
+	-assigned sales rep
+	-lead status
+	-leads won
+	-reason for loss
+	-estimated client quote	
+	-requested product or solution name
+	-last update date
+	-Comments (R)
+# save new wb
+# copy / paste 
+
+------------------------------
+Phase 2
+------------------------------
+-Put the sheet in the shared drive
+-Let the managers add to it
+-It points to a power BI report with row level security
+
+------------------------------
+Phase 3
+------------------------------
+-Create a web app that allows the managers to edit their leads
+-View the leads in an embedded report
