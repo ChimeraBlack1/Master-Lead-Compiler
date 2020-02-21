@@ -1,5 +1,6 @@
 /__pycache__
 *.xls
 *.xlsx
+*.xlsm
 /MasterLeadCompiler.txt
 excelCompare.py
