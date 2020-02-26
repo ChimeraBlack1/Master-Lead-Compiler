@@ -13,8 +13,8 @@ endOfMgr = ec.FindLastRow(mgrSheet)
 
 masterDict = {}
 mgrDict = {}
-missing = []
 missingDict = {}
+missing = []
 missingCount = 0
 mastLeadCount = 0
 
